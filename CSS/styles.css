@@ -13,7 +13,8 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background: url(/home/getrude/Desktop/PORTFOLIO/images/background3.webp) no-repeat center center fixed;
+  background: url("../images/background3.webp" 
+  ) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -58,7 +59,7 @@ body {
 /* Main column */
 .main {
   flex: 70%;
-  background: url(/home/getrude/Desktop/PORTFOLIO/images/b5.webp) no-repeat center center fixed;
+  background: url(../images/b5.webp) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -70,7 +71,7 @@ body {
 
 /* my photo*/
 .myimg {
-  background: url(/home/getrude/Desktop/PORTFOLIO/images/mypic.jpg) no-repeat;
+  background: url(../images/mypic.jpg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
