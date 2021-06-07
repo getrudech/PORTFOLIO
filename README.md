@@ -6,7 +6,7 @@
 
 #### {setup instructions}
 click the link and open it using a browser
-{https://github.com/getrudech/PORTFOLIO.git}
+{https://getrudech.github.io/PORTFOLIO/}
 
 ## Technologies Used
 only HTML and CSS used
